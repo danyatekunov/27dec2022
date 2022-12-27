@@ -30,6 +30,9 @@
 * git merge- соединяет ветки
 * git log --graph- показывает графически все изменения между ветвями и т.д.
 * git checkout -b название ветки- создаёт ветку и сразу перемещает на неё
+* git remote add origin ссылка- добавляет удалённый репозиторий в GitHub
+* git branch -M main
+* git push -u origin main
 
 ## **Ветки** 
 
