@@ -34,6 +34,7 @@
 * git branch -M main- переименовывает ветку для GitHub
 * git push -u origin main- отправляет репозиторий main в GitHub
 * git pull- подтягивает изменения, которые были внесены на GitHub
+* git clone ссылка- позволяет создать копию файла с GitHub
 
 ## **Ветки** 
 
