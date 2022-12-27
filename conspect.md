@@ -31,8 +31,8 @@
 * git log --graph- показывает графически все изменения между ветвями и т.д.
 * git checkout -b название ветки- создаёт ветку и сразу перемещает на неё
 * git remote add origin ссылка- добавляет удалённый репозиторий в GitHub
-* git branch -M main
-* git push -u origin main
+* git branch -M main- переименовывает ветку для GitHub
+* git push -u origin main- отправляет репозиторий main в GH
 
 ## **Ветки** 
 
